@@ -4,4 +4,4 @@ local에서 입력.
 
 github에서 입력.
 
-4. local에서 입력
+4. git에서 입력
