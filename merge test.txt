@@ -5,3 +5,5 @@ local에서 입력.
 github에서 입력.
 
 5. local에서 입력
+
+7. git에서 입력
